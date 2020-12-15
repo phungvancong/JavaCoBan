@@ -29,7 +29,6 @@ public class CauHoiTracNgiem {
                     break;
                 }else {
                     LuaChon();
-
                 }
             }else {
                 System.out.println("vui long nhap gia tri");
